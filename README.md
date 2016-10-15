@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/rjdellecese/hon-graffiti.svg?style=svg)](https://circleci.com/gh/rjdellecese/hon-graffiti)
+
 # Hon-graffiti
 
 ## Getting Started
