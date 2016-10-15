@@ -19,7 +19,7 @@
     },
     "SECRET_KEY_BASE":{
       "generator":"secret"
-    },
+    }
   },
   "addons":[
     "heroku-postgresql"
