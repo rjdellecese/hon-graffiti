@@ -23,7 +23,6 @@ gem "title"
 gem "uglifier"
 
 group :development do
-  gem "rb-readline"
   gem "quiet_assets"
   gem "spring"
   gem "spring-commands-rspec"
